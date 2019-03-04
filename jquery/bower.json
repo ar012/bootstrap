@@ -1,0 +1,21 @@
+{
+  "name": "jQuery",
+  "homepage": "https://github.com/ar012/data-viz",
+  "authors": [
+    "Abdur Razzak <abdur.razzak@ctrends-software.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-3.3.1.min": "https://code.jquery.com/jquery-3.3.1.min.js",
+    "jquery": "^3.3.1"
+  }
+}
